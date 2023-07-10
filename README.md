@@ -40,6 +40,8 @@ Create the following Subfolders with the name in bold:
 
 A folder template will be linked. Absolute paths referenced in code need to be changed to correct paths based on your computer and data storage
 
+Link to folder template:  https://www.dropbox.com/sh/g2ydrebe596ffrh/AAD_hFgS5LwFduAuTjh3ZEqea?dl=0
+
 Instructions
 
 1 Download the code folder into a main folder on your computer
