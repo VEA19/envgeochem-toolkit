@@ -40,10 +40,11 @@ The utility of the toolkit can be demonstrated through a case study which involv
 Geochemical modelling programs offer a way to study complex environmental or aqueous systems, however, the use of such software is not fully optimised due to several factors. One of these factors is the variation in thermodynamic parameters for selected reactions and phase properties, such as enthalpy and stability constant (logK), across different databases. Table 1 shows how different databases may provide different logK values for the same parameters, leading to inconsistencies in modelling results. 
 Furthermore, a single database may not contain a specific phase of interest. In this case, researchers need to find and extract the data from other database sources, which can be a time-consuming process. This additional step of data retrieval can add to the challenges of using geochemical modelling programmes effectively and increase the risk of unwanted errors. This toolkit addresses these issues by enhancing quality control and error management through the implementation of a search module that allows researchers to rapidly extract relevant chemical reactions and corresponding thermodynamic parameters and compare. This module ensures efficient data comparison across databases and effective management of modelling errors. An example is given in Table 1 where the stability constants for the reaction between ferric iron and sulphate recorded across different databases can vary around 3%. Without the use of this program, obtaining and comparing these values would be more difficult and time-consuming. 
 
-| Reaction | Log K | Database 
-|Fe$^{+3}$ + SO$_4^{-2}$ = FeSO$_4^+$ | 4.04|Amm|
-| Fe$^{+2}$ + SO$_4^{-2}$ = FeSO$_4$ |  3.92 |minteq|\
-| Fe$^{+2}$ + SO$_4^{-2}$ = FeSO$_4$ |  4.05 |minteq.v4|
+|       Reaction              |      LogK  |      Database  |
+|-----------------------------|:----------:|:--------------:|
+|      Fe+3 + SO4-2 = FeSO4+  |     4.04   |     Amm.       |
+|      Fe+2 + SO4-2 = FeSO4   |     3.92   |     minteq     |
+|      Fe+2 + SO4-2 = FeSO4   |     4.05   |     minteq.v4  |
 \caption{Intrinsic stability constants for iron sulphate formation recorded across three PHREEQC databases.}
 
 In addition, this toolkit expands the user horizon for PHREEQC, allowing those without in-depth knowledge of the program to use the databases provided purely as a source of information without having to use the actual program.  
