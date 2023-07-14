@@ -27,6 +27,7 @@ affiliations:
  - name: Imperial College London, South Kensington Campus, London SW7 2AZ, UK
    index: 1
 date: 14 July 2023
+bibliography: paper.bib
 
 ---
 
