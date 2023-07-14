@@ -45,6 +45,7 @@ Furthermore, a single database may not contain a specific phase of interest. In 
 |      Fe+3 + SO4-2 = FeSO4+  |     4.04   |     Amm.       |
 |      Fe+2 + SO4-2 = FeSO4   |     3.92   |     minteq     |
 |      Fe+2 + SO4-2 = FeSO4   |     4.05   |     minteq.v4  |
+<br>
 \caption{Intrinsic stability constants for iron sulphate formation recorded across three PHREEQC databases.}
 
 In addition, this toolkit expands the user horizon for PHREEQC, allowing those without in-depth knowledge of the program to use the databases provided purely as a source of information without having to use the actual program.  
