@@ -11,24 +11,23 @@ authors:
     affiliation: 1
   - name: Jack Turney
     orcid: 0000-0001-6026-9763
-    affiliation: 1 
+    affiliation: 1
   - name: Dominik Weiss
     orcid: 0000-0001-8074-9430
     affiliation: 1
     corresponding: true
   - name: Jincheng Wang
-     orcid: 0000-0000-0000-0000
+    orcid: 0000-0000-0000-0000
     affiliation: 1
   - name: Claudia Rocco
     orcid: 0000-0003-2295-0720
     corresponding: true
-   affiliation: 1
+    affiliation: 1
 affiliations:
  - name: Imperial College London, South Kensington Campus, London SW7 2AZ, UK
    index: 1
 date: 14 July 2023
 bibliography: paper.bib
-
 ---
 
 # Summary
