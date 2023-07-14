@@ -10,8 +10,8 @@ authors:
     orcid: 0000-0000-0000-0000
     affiliation: 1
   - name: Jack Turney
-     affiliation: 1
-    orcid: 0000-0001-6026-9763 
+    orcid: 0000-0001-6026-9763
+    affiliation: 1 
   - name: Dominik Weiss
     orcid: 0000-0001-8074-9430
     affiliation: 1
