@@ -1,0 +1,24 @@
+@article{ 
+author={Turney,Jack N. and Weiss,Dominik and Muxworthy,Adrian R. and Fraser,Alastair}, 
+year={2023},
+month={Sep 30,},
+title={Greigite formation in aqueous solutions: Critical constraints into the role of iron and sulphur ratios, pH and Eh, and temperature using reaction pathway modelling}, 
+journal={Chemical geology},
+volume={635},
+pages={121618}, 
+isbn={0009-2541}, 
+url={https://dx.doi.org/10.1016/j.chemgeo.2023.121618}, 
+}
+
+@article{ 
+author={Northover,George H. R. and Mao,Yiru and Blasco,Salvador and Vilar,Ramon and Garcia-España,Enrique and Rocco,Claudia and Hanif,Md and Weiss,Dominik J.},
+year={2022}, 
+month={Apr 26,},
+title={Synergistic use of siderophores and weak organic ligands during zinc transport in the rhizosphere controlled by pH and ion strength gradients}, 
+journal={Scientific reports}, 
+volume={12}, 
+number={1}, 
+pages={6774}, 
+isbn={2045-2322}, 
+url={https://www.ncbi.nlm.nih.gov/pubmed/35474082}, 
+}
