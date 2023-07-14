@@ -62,7 +62,7 @@ Added functionalities include data manipulation by performing calculations such 
 This python toolkit is designed to provide users with a variety of subfiles to select based on their specific needs. One such subfile is the ‘search.py’. This subfile is implemented by prompting the user to enter a chemical species to study. It uses the fuzzy search algorithm to enhance search diversity and searches for chemical reactions relating to the species in one of the 13 PHREEQC databases. The extraction process is aided by the python tinker library. The results of the search function are stored in an excel file allowing users to further analyze data and compare findings across databases. 
 The second subfile developed is the ‘daviesfunction.py’, which aids in data manipulation. The implementation of ‘daviesfunction.py’ uses multiple functions to extract products and reactants and charge numbers of each component in order to calculate the activity coefficient from the Davies activity model. In addition, ‘Kintrinsic.py’ subfile uses the functions defined in ‘davies.py’ to determine the activity coefficient using the Davies equation (Equation 1) and back-calculates the intrinsic stability constant based on an excel input file from the user [@Northover:2022]
 
-![Equation](https://render.githubusercontent.com/render/math?math=-%20%5Clog%20%5Cgamma_i%20%3D%20-Az_i%5E%7B2%7D%20%5Cleft(%5Cfrac%7B%5Csqrt%7BI%7D%7D%7B1%2B%5Csqrt%7BI%7D%7D%20-%200.3I%5Cright))
+
 
 
 ![Example output using the LEPion.py subfile for zinc-citrate and zinc-edta complexation at $10^{-6}$ M zinc and $10^{-5}$ M Citrate and $10^{-5}$ M Edta.\label{fig:LEPchart}](Edta_CitrateZn__ph.jpg)
